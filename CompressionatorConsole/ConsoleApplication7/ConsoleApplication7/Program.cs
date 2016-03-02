@@ -63,16 +63,16 @@ namespace ConsoleApplication
                         break;
                     case "zip help":
                         Console.WriteLine("Type one of these commands:");
-                        Console.WriteLine("compress = compresses folder at directory startPath");
-                        Console.WriteLine("extract  = extracts everyting from zip file at zipPath to extractPath");
-                        Console.WriteLine("specific compress = same as compress but you specify an extension for the target files");
-                        Console.WriteLine("specific extract = same as extract but you specify an extension for the target files");
-                        Console.WriteLine("start path = changes the current selected directory for compression");
-                        Console.WriteLine("extract path = changes the target directory for extraction");
+                        Console.WriteLine("zip cmpr = compresses folder at directory startPath");
+                        Console.WriteLine("zip extr  = extracts everyting from zip file at zipPath to extractPath");
+                        Console.WriteLine("zip scmpr = same as compress but you specify an extension for the target files");
+                        Console.WriteLine("zip sextr = same as extract but you specify an extension for the target files");
+                        Console.WriteLine("zip cmprpath= changes the current selected directory for compression");
+                        Console.WriteLine("zip extrpath  = changes the target directory for extraction");
                         Console.WriteLine("zip path = changes the target zip file path (to create or select existing)");
                         Console.WriteLine("zip type = changes the algorythm for compression (default zip)");
                         Console.WriteLine("zip add = compress a single file to the zip folder by specifying its path");
-                        Console.WriteLine("exit = exits program");
+                        Console.WriteLine("zip exit = exits program");
                         break;
                     case "zip cmpr":
                         ZipFile.CreateFromDirectory(startPath, zipPath);
@@ -292,7 +292,7 @@ namespace ConsoleApplication
                         break;
 
                     default:
-                        Console.WriteLine("Invalid Option \n");
+                        Console.WriteLine("Invalid Option, type zip help \n");
                         break;
                 }
 

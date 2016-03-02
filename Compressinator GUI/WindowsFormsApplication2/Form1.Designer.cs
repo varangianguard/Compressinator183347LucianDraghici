@@ -54,6 +54,8 @@
             this.GZipbutton = new System.Windows.Forms.Button();
             this.zipnameText = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Zipbutton
@@ -148,9 +150,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(146, 69);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(131, 13);
+            this.label4.Size = new System.Drawing.Size(110, 13);
             this.label4.TabIndex = 18;
-            this.label4.Text = "Path to folder to Compress";
+            this.label4.Text = "Uncompressed Folder";
             // 
             // CompressText
             // 
@@ -197,11 +199,11 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(146, 280);
+            this.label7.Location = new System.Drawing.Point(149, 325);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(131, 13);
+            this.label7.Size = new System.Drawing.Size(72, 13);
             this.label7.TabIndex = 32;
-            this.label7.Text = "Path to folder to Compress";
+            this.label7.Text = "Extract Folder";
             // 
             // label8
             // 
@@ -271,11 +273,31 @@
             this.label9.TabIndex = 39;
             this.label9.Text = "Zip file name";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(146, 279);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(110, 13);
+            this.label3.TabIndex = 40;
+            this.label3.Text = "Uncompressed Folder";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(149, 114);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(72, 13);
+            this.label10.TabIndex = 41;
+            this.label10.Text = "Extract Folder";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(745, 504);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.zipnameText);
             this.Controls.Add(this.label2);
@@ -335,6 +357,8 @@
         private System.Windows.Forms.Button GZipbutton;
         private System.Windows.Forms.TextBox zipnameText;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label10;
     }
 }
 

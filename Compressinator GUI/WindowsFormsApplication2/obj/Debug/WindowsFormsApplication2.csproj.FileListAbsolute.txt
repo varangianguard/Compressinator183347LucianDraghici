@@ -7,3 +7,15 @@ c:\users\raf\documents\visual studio 2015\Projects\WindowsFormsApplication2\Wind
 c:\users\raf\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 c:\users\raf\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\raf\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Raf\Desktop\Compress\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Raf\Documents\GitHub\Compressinator183347LucianDraghici\Compressinator GUI\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Raf\Documents\GitHub\Compressinator183347LucianDraghici\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Raf\Documents\GitHub\Compressinator183347LucianDraghici\Compressinator GUI\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

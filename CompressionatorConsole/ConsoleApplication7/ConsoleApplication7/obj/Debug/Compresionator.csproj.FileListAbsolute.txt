@@ -1,0 +1,12 @@
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\Compresionator.csprojResolveAssemblyReference.cache
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Raf\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Raf\Desktop\Compressionator183347-master\ConsoleApplication7\ConsoleApplication7\obj\Debug\Compresionator.csprojResolveAssemblyReference.cache
